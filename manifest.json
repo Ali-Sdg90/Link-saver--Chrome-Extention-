@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "name": "Link Holder",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.jpg"
+    },
+    "permissions": ["tabs"]
+}
